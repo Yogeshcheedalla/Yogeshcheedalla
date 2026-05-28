@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yogesh%20Cheedalla&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descAlign=50" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Tech Code Banner" />
 </p>
 
-# Hi 👋, I'm Yogesh Cheedalla<h3 align="center">Software Engineer • Java Developer • Cloud Engineer • AI/ML Enthusiast</h3>
+# Hi 👋, I'm Yogesh Cheedalla
+
+<h3 align="center">Software Engineer • Java Developer • Cloud Engineer • AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
