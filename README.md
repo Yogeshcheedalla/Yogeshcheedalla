@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=250&section=header&text=Yogesh%20Cheedalla&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Java%20Developer%20%7C%20Cloud%20%7C%20AI/ML&descAlignY=55&descAlign=50" alt="Tech Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Code Banner" />
 </p>
 
 # Hi 👋, I'm Yogesh Cheedalla
