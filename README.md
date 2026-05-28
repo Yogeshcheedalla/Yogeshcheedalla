@@ -31,7 +31,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
@@ -117,7 +117,7 @@
 
 ## 🤖 AI-Powered Skill Gap Analyzer
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AI/ML-FF4088?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangChain-AI-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/AI/ML-FF4088?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangChain-AI-green?style=for-the-badge"/>
 
 <p align="left">
 AI-based platform that analyzes learning gaps and provides intelligent recommendations for improving technical skills and learning paths. 
