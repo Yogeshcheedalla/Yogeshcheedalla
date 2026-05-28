@@ -171,8 +171,8 @@ Bachelor of Technology (B.Tech) — Computer Science Engineering
 # 📈 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yogeshcheedalla&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshcheedalla&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yogeshcheedalla&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshcheedalla&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
